@@ -21,12 +21,12 @@ The app should now be available on `localhost:3000`
 
 ### Homepage
 
-<img src="https://github.com/zainafzal0/PassGuard/blob/master/images/omniHome.png" alt="home_page" width="500"/>
+<img src="https://github.com/zainafzal0/OmniFlight/blob/master/images/omniHome.png" alt="home_page" width="500"/>
 
 ### Search for flights
 
-<img src="https://github.com/zainafzal0/PassGuard/blob/master/images/omniSearch.png" alt="search" width="500"/>
+<img src="https://github.com/zainafzal0/OmniFlight/blob/master/images/omniSearch.png" alt="search" width="500"/>
 
 ### See flight statistics
 
-<img src="https://github.com/zainafzal0/PassGuard/blob/master/images/omniStats.png" alt="stats" width="500"/>
+<img src="https://github.com/zainafzal0/OmniFlight/blob/master/images/omniStats.png" alt="stats" width="500"/>
